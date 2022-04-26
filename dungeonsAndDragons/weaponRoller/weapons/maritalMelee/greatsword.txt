@@ -1,0 +1,10 @@
+--------------------
+GREATSWORD
+--------------------
+Reach: 5 ft
+Damage: 2d6
+Damage Type: Slashing
+Properties: Heavy, Two-Handed
+Weight: 6 lbs
+Cost: 50 gp
+--------------------

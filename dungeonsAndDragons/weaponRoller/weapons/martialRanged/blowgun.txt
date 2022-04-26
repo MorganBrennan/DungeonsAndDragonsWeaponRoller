@@ -1,0 +1,10 @@
+--------------------
+BLOWGUN
+--------------------
+Reach: 25 / 100 ft
+Damage: 1
+Damage Type: Piercing
+Properties: Ammunition, Loading, Range
+Weight: 1 lb
+Cost: 10 gp
+--------------------

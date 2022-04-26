@@ -1,0 +1,10 @@
+--------------------
+HAND CROSSBOW
+--------------------
+Reach: 30 / 120 ft
+Damage: 1d6
+Damage Type: Piercing
+Properties: Ammunition, Range, Light, Loading
+Weight: 3 lbs
+Cost: 75 gp
+--------------------

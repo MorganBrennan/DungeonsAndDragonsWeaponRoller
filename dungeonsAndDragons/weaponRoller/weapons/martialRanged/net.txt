@@ -1,0 +1,9 @@
+--------------------
+NET
+--------------------
+Reach: 5 / 15 ft
+Damage Type: Bludgeoning
+Properties: Special, Thrown
+Weight: 3 lbs
+Cost: 1 gp
+--------------------

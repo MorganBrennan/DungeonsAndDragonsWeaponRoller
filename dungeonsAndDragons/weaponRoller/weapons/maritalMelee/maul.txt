@@ -1,0 +1,10 @@
+--------------------
+MAUL
+--------------------
+Reach: 5 ft
+Damage: 2d6
+Damage Type: Bludgeoning
+Properties: Heavy, Two-Handed
+Weight: 10 lbs
+Cost: 10 gp
+--------------------

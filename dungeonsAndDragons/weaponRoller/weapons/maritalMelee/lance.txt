@@ -1,0 +1,10 @@
+--------------------
+LANCE
+--------------------
+Reach: 10 ft
+Damage: 1d12
+Damage Type: Piercing
+Properties: Reach, Special
+Weight: 6 lbs
+Cost: 10 gp
+--------------------

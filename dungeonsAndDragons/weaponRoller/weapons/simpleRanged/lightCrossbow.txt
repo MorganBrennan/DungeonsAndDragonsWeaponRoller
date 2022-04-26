@@ -1,0 +1,10 @@
+--------------------
+LIGHT CROSSBOW
+--------------------
+Range: 80 / 230 ft
+Damage: 1d8
+Damage Type: Piercing
+Properties: Ammunition, Loading, Range, Two-Handed
+Weight: 5 lbs
+Cost: 25 gp
+--------------------

@@ -1,0 +1,10 @@
+--------------------
+QUARTERSTAFF
+--------------------
+Reach: 5 ft
+Damage: 1d6
+Damage Type: Bludgeoning
+Properties: Versatile 1d8
+Weight: 4 lbs
+Cost: 2 sp
+--------------------

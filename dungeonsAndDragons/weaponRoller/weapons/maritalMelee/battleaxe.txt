@@ -1,0 +1,10 @@
+--------------------
+BATTLEAXE
+--------------------
+Reach: 5 ft
+Damage: 1d8
+Damage Type: Slashing
+Properties: Versatile 1d10
+Weight: 4 lbs
+Cost: 10 gp
+--------------------

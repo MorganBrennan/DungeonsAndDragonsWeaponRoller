@@ -1,0 +1,10 @@
+--------------------
+SPEAR
+--------------------
+Reach: 5 ft
+Damage: 1d6
+Damage Type: Piercing
+Properties: Thrown, Versatile 1d8
+Weight: 3 lbs
+Cost: 1 gp
+--------------------

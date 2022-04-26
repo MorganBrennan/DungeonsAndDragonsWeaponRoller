@@ -1,0 +1,10 @@
+--------------------
+SLING
+--------------------
+Reach: 30 / 120 ft
+Damage: 1d4
+Damage Type: Bludgeoning
+Properties: Ammunition, Range
+Weight: --
+Cost: 1 sp
+--------------------

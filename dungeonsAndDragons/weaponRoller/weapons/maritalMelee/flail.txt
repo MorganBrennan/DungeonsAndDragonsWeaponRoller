@@ -1,0 +1,9 @@
+--------------------
+FLAIL
+--------------------
+Reach: 5 ft
+Damage: 1d8
+Damage Type: Bludgeoning
+Weight: 2 lbs
+Cost: 10 gp
+--------------------

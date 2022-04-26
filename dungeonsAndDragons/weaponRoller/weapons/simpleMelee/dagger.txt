@@ -1,0 +1,10 @@
+--------------------
+DAGGER
+--------------------
+Reach: 5 ft
+Damage: 1d4
+Damage Type: Piercing
+Properties: Finesse, Light, Thrown
+Weight: 1 lb
+Cost: 2 gp
+--------------------

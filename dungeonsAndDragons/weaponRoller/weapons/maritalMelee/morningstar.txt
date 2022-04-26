@@ -1,0 +1,9 @@
+--------------------
+MORNINGSTAR
+--------------------
+Reach: 5 ft
+Damage: 1d8
+Damage Type: Piercing
+Weight: 4 lbs
+Cost: 15 gp
+--------------------

@@ -1,0 +1,10 @@
+--------------------
+WHIP
+--------------------
+Reach: 10ft
+Damage: 1d4
+Damage Type: Slashing
+Properties: Finesse, Reach
+Weight: 3 lbs
+Cost: 2 gp
+--------------------

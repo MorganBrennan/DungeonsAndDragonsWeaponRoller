@@ -1,0 +1,10 @@
+--------------------
+LONGSWORD
+--------------------
+Reach: 5 ft
+Damage: 1d8
+Damage Type: Slashing
+Properties: Versatile 1d10
+Weight: 3 lbs
+Cost: 15 gp
+--------------------

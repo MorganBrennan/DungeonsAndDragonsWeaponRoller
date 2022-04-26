@@ -1,0 +1,10 @@
+--------------------
+TRIDENT
+--------------------
+Reach: 5 ft
+Damage: 1d6
+Damage Type: Piercing
+Properties: Thrown, Versatile 1d8
+Weight: 4 lbs
+Cost: 5 gp
+--------------------

@@ -1,0 +1,10 @@
+--------------------
+GREATAXE
+--------------------
+Reach: 5 ft
+Damage: 1d12
+Damage Type: Slashing
+Properties: Heavy, Two-Handed
+Weight: 7 lbs
+Cost: 30 gp
+--------------------

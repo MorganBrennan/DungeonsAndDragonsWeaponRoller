@@ -1,0 +1,10 @@
+--------------------
+DART
+--------------------
+Range: 20 / 60 ft
+Damage: 1d4
+Damage Type: Piercing
+Properties: Finesse, Thrown
+Weight: 1/4 lb
+Cost: 5 cp
+--------------------

@@ -1,0 +1,10 @@
+--------------------
+WARHAMMER
+--------------------
+Reach: 5ft
+Damage: 1d8
+Damage Type: Bludgeoning
+Properties: Versatile 1d10
+Weight: 2 lbs
+Cost: 15 gp
+--------------------

@@ -1,0 +1,9 @@
+--------------------
+MACE
+--------------------
+Reach: 5ft
+Damage: 1d6
+Damage Type: Bludgeoning
+Weight: 4 lbs
+Cost: 5 gp
+--------------------

@@ -1,0 +1,10 @@
+--------------------
+HANDAXE
+--------------------
+Reach: 5 ft
+Damage: 1d6
+Damage Type: Slashing
+Properties: Light, Thrown
+Weight: 2 lbs
+Cost: 5 gp
+--------------------

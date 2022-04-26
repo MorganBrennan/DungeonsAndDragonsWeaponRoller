@@ -1,0 +1,10 @@
+--------------------
+GREATCLUB
+--------------------
+Reach: 5 ft
+Damage: 1d8
+Damage Type: Bludgeoning
+Properties: Two-Handed
+Weight: 10 lbs
+Cost: 2 sp
+--------------------

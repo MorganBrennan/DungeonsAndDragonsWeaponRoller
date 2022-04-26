@@ -1,0 +1,10 @@
+--------------------
+SHORTSWORD
+--------------------
+Reach: 5 ft
+Damage: 1d6
+Damage Type: Piercing
+Properties: Finesse, Light
+Weight: 2 lbs
+Cost: 10 gp
+--------------------

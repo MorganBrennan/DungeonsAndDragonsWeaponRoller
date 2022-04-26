@@ -1,0 +1,10 @@
+--------------------
+GLAIVE
+--------------------
+Reach: 10 ft
+Damage: 1d10
+Damage Type: Slashing
+Properties: Heavy, Reach, Two-Handed
+Weight: 6 lbs
+Cost: 20 gp
+--------------------

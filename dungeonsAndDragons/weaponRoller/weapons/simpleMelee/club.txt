@@ -1,0 +1,10 @@
+--------------------
+CLUB
+--------------------
+Reach: 5 ft
+Damage: 1d4
+Damage Type: Bludgeoning
+Properties: Light
+Weight: 2 lbs
+Cost: 1 sp
+--------------------

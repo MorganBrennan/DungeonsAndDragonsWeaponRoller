@@ -1,0 +1,10 @@
+--------------------
+PIKE
+--------------------
+Reach: 10 ft
+Damage: 1d10
+Damage Type: Piercing
+Properties: Heavy, Reach, Two-Handed
+Weight: 18 lbs
+Cost: 5 gp
+--------------------
